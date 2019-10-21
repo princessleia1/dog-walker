@@ -1,5 +1,5 @@
 # Dog-Walker
-**Dog-Walker** is a Fitbit Ionic and Versa Exercise App for Dog Walking. **Dog-Walker** uses [Fitbit SDK V3.2.0](https://github.com/Fitbit). Cloned from [SDK-Exercise](https://github.com/Fitbit/sdk-exercise) "Skateboard" by @Fitbit/orviwan. **Dog-Walker** [updates](https://github.com/princessleia1/dog-walker/issues) include support for Versa, Dog Walking Activity via Exercise Tracking, addition of Dog-Walker Tips View, and Steps Actvity. Work In Progress.
+**Dog-Walker** is a Fitbit Ionic and Versa Exercise App for Dog Walking. **Dog-Walker** uses [Fitbit SDK V3.2.0](https://github.com/Fitbit). Cloned from [SDK-Exercise](https://github.com/Fitbit/sdk-exercise) "Skateboard" by [@Fitbit/orviwan](https://github.com/Fitbit). **Dog-Walker** [updates](https://github.com/princessleia1/dog-walker/issues) include support for Versa, Dog Walking Activity via Exercise Tracking, Steps Activity, and Dog-Walker Tips View. Work In Progress.
 
 ## Devices
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
