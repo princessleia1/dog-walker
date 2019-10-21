@@ -1,0 +1,11 @@
+#lblTitle {
+  x: 8;
+  y: 100%-18;
+}
+
+#view-tips .label {
+  font-size: 24;
+  x: 8;
+  y: $+4;
+  fill: #ffffff;
+}

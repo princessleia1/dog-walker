@@ -1,0 +1,39 @@
+{
+  "fitbit": {
+    "appUUID": "a48bf6d0-8b8e-4b7d-863e-3a235e518942",
+    "appType": "app",
+    "appDisplayName": "Dog Walker",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffeb3b",
+    "requestedPermissions": [
+      "access_activity",
+      "access_exercise",
+      "access_heart_rate",
+      "access_location",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dog Walker"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0",
+    "@fitbit/sdk-cli": "^1.6.3"
+  },
+  "name": "skateboard",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  }
+}
