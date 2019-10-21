@@ -18,9 +18,9 @@
 * **Active Time** (Number of Minutes).
 * **Steps** taken (Number of Steps).
 * **Distance** travelled in US or Metric.
-* **Heart Rate Average** in BPM.
-* **Heart Rate Maximum** in BPM.
-* **Calories** burned, Number of Calories in kcal.
+* **Heart Rate Average** in BPM (Beats Per Minute).
+* **Heart Rate Maximum** in BPM (Beats Per Minute).
+* **Calories** burned (Number of Calories in kcal).
 
 **Dog-Walker** displays random 'Dog Walking Tips' such as:
 
