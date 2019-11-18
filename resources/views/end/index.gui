@@ -2,16 +2,15 @@
 <link rel="stylesheet" href="styles.css" />
 <svg id="view-end" display="none">
   <image href="images/bg.png" opacity=".7" />
-
+  <!-- Basic clock -->
   <use id="subview-clock2" href="#subview-clock" />
-
+  <!-- Title -->
   <text id="lblTitle">Nice Walk!</text>
-
+  <! -- Execises measured -->
   <text id="lblActiveTime" class="label" />
   <text id="lblHeartRateAvg" class="label" />
   <text id="lblHeartRateMax" class="label" />
   <text id="lblSpeedAvg" class="label" />
   <text id="lblSpeedMax" class="label" />
   <text id="lblDistance" class="label" />
-
 </svg>
