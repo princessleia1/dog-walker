@@ -1,6 +1,3 @@
-/*
-A basic digital clock
-*/
 import clock from "clock";
 import { preferences } from "user-settings";
 
