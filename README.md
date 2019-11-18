@@ -34,7 +34,7 @@
 - [ ] Update Stying on all Views
 - [ ] Update UI Components
 - [ ] Add Steps Activity
-- [ ] Add Dog Walking Tips View
+- [x] Add Dog Walking Tips View
 - [ ] Remove Speed Avg, Max
 - [ ] Add Versa Support
 - [ ] Add Full Width 'Done' Button to End View
