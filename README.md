@@ -29,6 +29,10 @@
 > *Reward short bursts of heeling or loose leash walking with frequent sniffing sessions to help foster good walking behavior.*
 > *[Stephanie Gibeault, MSc, CPDT](https://www.akc.org/expert-advice/training/ways-you-might-be-ruining-your-dogs-walk).*-
 
+## Devices
+**Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
+**Dog-Walker** updates for new Versa 2 Device Compatibility in progress.
+
 ## TODO:
 - [x] Update Icon to match Primary Colour
 - [ ] Update Stying on all Views
@@ -36,10 +40,11 @@
 - [ ] Add Steps Activity
 - [x] Add Dog Walking Tips View
 - [ ] Remove Speed Avg, Max
-- [ ] Add Versa Support
+- [x] Add Versa Support and updates for new SDK
 - [ ] Add Full Width 'Done' Button to End View
 - [ ] Optimise Scripts
-- [ ] Update Screenshots
+- [ ] Update Screenshots to include Versa 2 Device
+- [ ] Update index.js, CSS, GUI Files for new Versa 2 Device compatibility.
 
 ## Build
 **Pre-requisites:**
