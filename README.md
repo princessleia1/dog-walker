@@ -32,8 +32,6 @@
 ## Devices
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
 
-**Dog-Walker** updates for new Versa 2 Device Compatibility in progress.
-
 ### TODO:
 - [x] Update Icon to match Primary Colour
 - [ ] Update Stying on all Views
