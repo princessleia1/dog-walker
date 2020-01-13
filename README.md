@@ -33,7 +33,7 @@
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
 
 ## Compatibility
-**Dog-Walker** currently does not support the new Fitbit Device Versa 2. Updates are also reuired for new Fitbit OS SDK V4.1.
+**Dog-Walker** currently does not support the new Fitbit Device Versa 2. Updates required for latest Fitbit OS SDK V4.1.
 
 ### TODO:
 - [ ] Add gemini and mira build targets.
