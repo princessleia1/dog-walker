@@ -33,7 +33,7 @@
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
 
 ### TODO:
-- [ ] Add support for gemini and mira build targets.
+- [ ] Add gemini and mira build targets.
 - [x] Update Icon to match Primary Colour.
 - [ ] Update Stying on all Views.
 - [ ] Add Steps Activity.
