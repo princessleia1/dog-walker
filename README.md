@@ -35,7 +35,7 @@
 ## Compatibility
 **Dog-Walker** currently does not support the new Fitbit Device Versa 2. Updates are also reuired for new Fitbit OS SDK V4.1.
 
-## TODO:
+### TODO:
 - [ ] Add gemini and mira build targets.
 - [x] Update Icon to match Primary Colour.
 - [ ] Update Stying on all Views.
