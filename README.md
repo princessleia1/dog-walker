@@ -1,5 +1,5 @@
 # Dog-Walker
-**Dog-Walker** is a Fitbit Ionic and Versa Exercise App for Dog Walking. **Dog-Walker** uses [Fitbit SDK V3.2.0](https://github.com/Fitbit). Cloned from [SDK-Exercise](https://github.com/Fitbit/sdk-exercise) "Skateboard" by [@Fitbit/orviwan](https://github.com/Fitbit). **Dog-Walker** [updates](https://github.com/princessleia1/dog-walker/issues) include support for Versa, Dog Walking Activity via Exercise Tracking, Steps Activity, and Dog-Walker Tips View. Work In Progress.
+**Dog-Walker** is a Fitbit Ionic and Versa Exercise App for Dog Walking. **Dog-Walker** uses [Fitbit SDK V3.2.0](https://github.com/Fitbit). Cloned from [SDK-Exercise](https://github.com/Fitbit/sdk-exercise) "Skateboard" by [@Fitbit/orviwan](https://github.com/Fitbit). **Dog-Walker** [updates](https://github.com/princessleia1/dog-walker/issues) include support for Versa, Dog Walking Activity via Exercise Tracking, Steps Activity, and Dog-Walker Tips View. WIP.
 
 ## Devices
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
@@ -26,14 +26,11 @@
 
 > ***Let Your Dog Sniff and Explore:***
 > *Dogs have up to 300 million scent receptors in their nose, depending on the breed.*
-> *Reward short bursts of heeling or loose leash walking with frequent sniffing sessions to help foster good walking behavior.*
 > *[Stephanie Gibeault, MSc, CPDT](https://www.akc.org/expert-advice/training/ways-you-might-be-ruining-your-dogs-walk).*-
 
 ## Devices
 **Dog-Walker** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
-
-## Compatibility
-**Dog-Walker** currently does not support the new Fitbit Device Versa 2. Updates required for latest Fitbit OS SDK V4.1.
+**Dog-Walker** currently does not support Fitbit Device Versa 2. Updates required for latest Fitbit OS SDK V4.1.
 
 ### TODO:
 - [ ] Add gemini and mira build targets.
@@ -45,7 +42,7 @@
 - [ ] Update for Fitbit OS SDK V4.1.
 - [ ] Add Full Width 'Done' Button to End View.
 
-## Build
+## Build / Install
 **Pre-requisites:**
 * Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
 * ```git clone https://github.com/princessleia1/dog-walker.git ```
@@ -58,7 +55,7 @@
 ```
 * Developer Bridge on Mobile Device and Fitbit Device connected.
 
-## Install
+## SDK CLI
 Using Fitbit SDK CLI Tool via ```Console```:
 
 ```
